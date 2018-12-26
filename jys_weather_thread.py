@@ -18,7 +18,7 @@ import time
 
 #======================KAKAO API===========================
 import urllib.request
-KakaoAK = "KakaoAK 0933ffbc620a742ffcd7ac2b8339dd4e"
+KakaoAK = "KakaoAK INPUT YOUR KEY"
 #==========================================================
 
 
